@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Kathryn
+
+I am a 3rd year [Management Engineering]([url](https://uwaterloo.ca/future-students/programs/management-engineering)) student at the University of Waterloo. I am currently seeking a Winter 2025 (January to April) internship relating to data analytics/engineering and project management!
+
+A little bit more about me:
+
+💼 I'm a Technical Support Help Desk Intern @ [DG Global]([url](https://dgglobal.ca/)), and was previously a performance analyst @ [NAVBLUE]([url](https://www.navblue.aero/))
+⚙️ The languages I use the most for school, co-op, and personal projects are Java, SQL, JavaScript, R, and Python
+📫 Feel free to reach out to me at kpercyro@uwaterloo.ca or on [LinkedIn]([url](https://www.linkedin.com/in/kathryn-percy-robb/))!
 
 <!--
 **kpercyro/kpercyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
