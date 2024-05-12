@@ -4,9 +4,9 @@ I am a 3rd year [Management Engineering](https://uwaterloo.ca/future-students/pr
 
 A little bit more about me:
 
-💼 I'm a Technical Support Help Desk Intern @ [DG Global](https://dgglobal.ca/), and was previously a performance analyst @ [NAVBLUE](https://www.navblue.aero/)
+💼 I'm a Technical Support Help Desk Intern @[DG Global](https://dgglobal.ca/), and was previously a performance analyst @[NAVBLUE](https://www.navblue.aero/)
 
-⚙️ The languages I use the most for school, co-op, and personal projects are Java, SQL, JavaScript, R, and Python
+⚙️ The languages I use the most for school, co-op, and personal projects are Java, SQL, JavaScript, and Python
 
 📫 Feel free to reach out to me at kpercyro@uwaterloo.ca or on [LinkedIn](https://www.linkedin.com/in/kathryn-percy-robb/)!
 
