@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kathryn
 
-I am a 3rd year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo. I am currently seeking a Winter 2025 (January to April) internship relating to data analytics/engineering and project management!
+I am a 3rd year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo. I am currently seeking a Winter 2025 (January to April) internship relating to data analytics and project management!
 
 A little bit more about me:
 
