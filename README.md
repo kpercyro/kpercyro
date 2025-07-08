@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Kathryn
 
-I am a 3rd year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo. I am currently seeking a Winter 2025 (January to April) internship relating to data analytics and project management!
+I am a 4th-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo.
 
 A little bit more about me:
 
-💼 I'm a Technical Support Help Desk Intern @[DG Global](https://dgglobal.ca/), and was previously a Performance Analyst @[NAVBLUE](https://www.navblue.aero/)
+💼 I'm a Jr. Database Administrator @[PointClickCare]((https://pointclickcare.com/)), and was previously a Technical Support Help Desk Intern @[DG Global](https://dgglobal.ca/) and a Performance Analyst @[NAVBLUE](https://www.navblue.aero/)
 
-⚙️ The languages I use the most for school, co-op, and personal projects are Java, SQL, JavaScript, and Python
+⚙️ The languages I use the most for school, co-op, and personal projects are Python, SQL, Java and JavaScript.
 
 📫 Feel free to reach out to me at kpercyro@uwaterloo.ca or on [LinkedIn](https://www.linkedin.com/in/kathryn-percy-robb/)!
 
