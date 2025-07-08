@@ -4,7 +4,7 @@ I am a 4th-year [Management Engineering](https://uwaterloo.ca/future-students/pr
 
 A little bit more about me:
 
-💼 I'm a Jr. Database Administrator @[PointClickCare]([https://pointclickcare.com/]), and was previously a Technical Support Help Desk Intern @[DG Global](https://dgglobal.ca/) and a Performance Analyst @[NAVBLUE](https://www.navblue.aero/)
+💼 I'm a Jr. Database Administrator @[PointClickCare](https://pointclickcare.com/), and was previously a Technical Support Help Desk Intern @[DG Global](https://dgglobal.ca/) and a Performance Analyst @[NAVBLUE](https://www.navblue.aero/)
 
 ⚙️ The languages I use the most for school, co-op, and personal projects are Python, SQL, Java and JavaScript.
 
