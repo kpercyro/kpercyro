@@ -6,6 +6,8 @@ A little bit more about me:
 
 💼 I've done co-ops as a Jr. Database Administrator @[PointClickCare](https://pointclickcare.com/), a Technical Support Help Desk Intern @[DG Global](https://dgglobal.ca/) and a Performance Analyst @[NAVBLUE](https://www.navblue.aero/)
 
+I am currently a TA for MSE 121 Introduction to Computer Programming and MSE 100 Management Engineering Concepts
+
 ⚙️ The languages I use the most for school, co-op, and personal projects are Python, SQL, Java and JavaScript.
 
 📫 Feel free to reach out to me at kpercyro@uwaterloo.ca or on [LinkedIn](https://www.linkedin.com/in/kathryn-percy-robb/)!
