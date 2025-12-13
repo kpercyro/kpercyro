@@ -8,7 +8,9 @@ A little bit more about me:
 
 🏫 I am currently a TA for MSE 121 Introduction to Computer Programming and MSE 100 Management Engineering Concepts
 
-⚙️ The languages I use the most for school, co-op, and personal projects are Python, SQL, Java and JavaScript.
+⚙️ The languages I use the most for school, co-op, and personal projects are Python and SQL.
+
+✨ To see more of my projects and skills, check out my portfolio website [here](https://kpercyro.github.io/#)
 
 📫 Feel free to reach out to me at kpercyro@uwaterloo.ca or on [LinkedIn](https://www.linkedin.com/in/kathryn-percy-robb/)!
 
