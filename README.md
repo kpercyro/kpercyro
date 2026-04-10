@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kathryn
+### Hi there 👋 I'm Kate
 
 I am a 4th-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo.
 
