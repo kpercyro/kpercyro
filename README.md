@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kate
 
-I am a 4th-year [Management Engineering](https://uwaterloo.ca/future-students/programs/management-engineering) student at the University of Waterloo.
+I am a 1st-year MASc Student in [Management Science and Engineering]((https://uwaterloo.ca/management-science-engineering/graduate-studies/future-students/programs#research)) at the University of Waterloo.
 
 A little bit more about me:
 
